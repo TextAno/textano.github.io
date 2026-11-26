@@ -26,7 +26,9 @@ TextAno wird laufend weiterentwickelt. Rückmeldungen sind willkommen: textano@p
 ---
 
 **FR** – TextAno remplace les données personnelles d’un texte par des espaces réservés avant l’envoi à un outil d’IA, puis rétablit la réponse – en local dans le navigateur (pseudonymisation).
+
 **IT** – TextAno sostituisce i dati personali di un testo con segnaposto prima dell’invio a uno strumento di IA e poi ripristina la risposta – in locale nel browser (pseudonimizzazione).
+
 **EN** – TextAno replaces personal details in a text with placeholders before it goes to an AI tool and restores the answer afterwards – locally in the browser (pseudonymisation).
 
 Stichwörter: Pseudonymisierung, Datenschutz, KI, ChatGPT, Claude, personenbezogene Daten, Platzhalter, lokal, Browser, Schweiz, Alternative zum manuellen Anonymisieren.
