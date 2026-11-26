@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://textano.github.io/sitemap.xml
